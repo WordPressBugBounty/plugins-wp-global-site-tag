@@ -1,0 +1,1 @@
+# plugins-wp-global-site-tag
